@@ -1,5 +1,5 @@
 ===================================
-Pacemaker / fencing setup
+Pacemaker / fencing setup / test
 ===================================
 
 0. OS setup
